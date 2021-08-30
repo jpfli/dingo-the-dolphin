@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "frame": { "x": 272, "y": 0, "w": 8, "h": 24 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 8, "h": 24 },
+      "sourceSize": { "w": 8, "h": 24 },
+      "duration": 200
+    }
+  ],
+  "meta": {
+    "image": "sprites.png",
+    "size": { "w": 8, "h": 24 },
+    "frameTags": [
+      { "name": "idle", "from": 0, "to": 0, "direction": "forward" }
+    ]
+  }
+}
